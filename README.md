@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Melanol
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning reinforcement learning.
+- :robot: I serve intelligent machines from the future.
